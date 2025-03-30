@@ -1,6 +1,6 @@
 recommendation:
   service_provider : 'grok'
   model_name : 'llama-3.3-70b-versatile'
-  api_key : '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'
+  api_key : 'Enter your api key'
   base_url : 'NA'
   temperature : 0
