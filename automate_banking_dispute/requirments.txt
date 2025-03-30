@@ -1,0 +1,39 @@
+# Core dependencies
+langgraph
+langgraph-sdk
+langgraph-checkpoint-sqlite
+langsmith
+langchain-community
+langchain-core
+langchain-openai
+notebook
+tavily-python
+wikipedia
+trustcall
+langgraph-cli
+pandas
+pymongo
+python-dotenv
+boto3
+openpyxl
+
+
+# Web framework and related packages
+fastapi
+uvicorn[standard]
+
+python-multipart
+
+# Authentication and security
+
+
+# Deep learning and tracking
+langgraph
+
+# ONNX and TensorRT (install with caution)
+
+# onnxruntime-gpu  # Uncomment if you want GPU support
+# TensorRT packages may require special installation steps
+# tensorrt
+# tensorrt_lean
+# tensorrt_dispatch
